@@ -1,0 +1,125 @@
+{
+  "text-data":
+  {
+    "html5":
+    {
+      "title": "HTML5",
+      "text": ["<i>\"Hypertext Markup Language (HTML) is the standard markup language for documents designed to be displayed in a web browser.",
+        " It can be assisted by technologies such as Cascading Style Sheets (CSS) and scripting languages such as JavaScript.\"</i>",
+        "<br/><br/>HTML5 is een duidelijke taal waar ik graag mee werk. Het brengt een goed overzicht en is eenvoudig in gebruik. Zoals verwacht heb ik met alle projecten met HTML gewerkt.",
+        "Toch moet ik eerlijk bekennen dat ik JSX nóg iets fijner vind werken."
+      ]
+    },
+
+    "css3":
+    {
+      "title": "CSS3",
+      "text": ["<i>\"Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document written in a markup language like HTML.",
+        "CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.\"</i>",
+        "<br/><br/>CSS3 mag dan soms wat lastig zijn om mee te werken: wel is het een taal die steeds krachtiger wordt. De opbouw is fijn om mee te werken en met toevoegingen",
+        " zoals FlexBox en het CSS Grid is het werken aan responsive designs steeds gemakkelijker. CSS3 heb ik, zoals verwacht, in al mijn projecten gebruikt."
+      ]
+    },
+
+    "javascript":
+    {
+      "title": "JavaScript",
+      "text": ["<i>\"JavaScript, often abbreviated as JS, is a high-level, interpreted scripting language that conforms to the ECMAScript specification.",
+        " JavaScript enables interactive web pages and is an essential part of web applications.\"</i>",
+        "<br/><br/>Experimenteren met JavaScript blijft leuk, aangezien je er alle kanten mee op kunt. Zeker in combinatie met ES6 is er altijd genoeg te leren. Momenteel werk ik alleen met",
+        " JavaScript voor de client-side maar is back-end werk (zoals met NodeJS) nog een van de dingen die ik graag zou willen leren. In al mijn projecten zit JavaScript verwerkt."
+      ]
+    },
+
+    "jquery":
+    {
+      "title": "jQuery",
+      "text": ["<i>\"jQuery is a JavaScript library designed to simplify HTML DOM tree traversal and manipulation, as well as event handling, CSS animation, and AJAX.\"</i>",
+      "<br/><br/>jQuery wordt online misschien niet altijd evenveel gewaardeerd, maar ik werk er persoonlijk graag mee. Zeker het selecteren van elementen wordt een stuk overzichtelijker ",
+      "en met de CSS method kun je veel kanten uit. Ik heb jQuery gebruikt in de Daily Programming Challenges app, het Sights To See On Sicily project, de Team Analysis app en de Tickomatic 2000 app."
+      ]
+    },
+
+    "ajax":
+    {
+      "title": "AJAX",
+      "text": ["<i>\"AJAX is a set of web development techniques using many web technologies on the client side to create asynchronous web applications. With Ajax, web applications can send ",
+        "and retrieve data from a server asynchronously (in the background) without interfering with the display and behavior of the existing page.\"</i>",
+        "<br/><br/>AJAX maakt het mogelijk om je design nog net even wat mooier te maken. Niet meer onnodig herladen, maar gewoon alles netjes tegelijkertijd. AJAX heb ik gebruikt bij het ",
+        " maken van deze website."
+      ]
+    },
+
+    "git":
+    {
+      "title": "Git",
+      "text": ["<i>\"Git is a distributed version-control system for tracking changes in source code during software development. ",
+        "It is designed for coordinating work among programmers, but it can be used to track changes in any set of files.\"</i>",
+        "<br/><br/>Met Git ben je nooit meer zomaar je werk kwijt. Door alles netjes te committen, krijg je goed je workflow in beeld en als je werkt in teamverband, is Git (of althans een van",
+        " de vele version controls) een must."
+      ]
+    },
+
+    "gulp":
+    {
+      "title": "Gulp",
+      "text": ["<i>\"Gulp is an open-source JavaScript toolkit used as a streaming build system in front-end web development.",
+        "It is a task runner used for automation of time-consuming and repetitive tasks involved in web development.\"</i>",
+        "<br/><br/>Gulp werkt erg fijn voor de development van een website of webapp. Met plugins zoals de live-reload en browser-sync verloopt alles toch wat soepeler. Ook werken met ES6 en",
+        " preprocessors zoals Sass gaat erg eenvoudig. Gulp heb ik gebruikt in mijn Daily Programming Challenges project."
+      ]
+    },
+
+    "webpack":
+    {
+      "title": "Webpack",
+      "text": ["<i>\"Webpack is an open-source JavaScript module bundler. It is a module bundler primarily for JavaScript, ",
+        "but it can transform front-end assets like HTML, CSS, and images if the corresponding plugins are included.\"</i>",
+        "<br/><br/>Webpack heeft misschien een ietwat lastige syntax om op te zetten, maar is erg sterk. Hoewel ik graag create-react-app gebruik om mijn React projecten op te bouwen, kun je ",
+        "er niet omheen dat het toevoegen van extra plugins veel toevoegd aan de functionaliteit van je project.",
+        "Ik heb create-react-app gebruikt om de Sights To See On Sicily website, de Tickomatic 2000 app en de Team Analysis app op te zetten."
+      ]
+    },
+
+    "react":
+    {
+      "title": "React",
+      "text": ["<i>\"React (also known as React.js or ReactJS) is a JavaScript library for building user interfaces.",
+        "React can be used as a base in the development of single-page or mobile applications, as it is optimal for fetching rapidly changing data that needs to be recorded.\"</i>",
+        "<br/><br/>React biedt een mooie structuur aan je projecten: alles wordt een stuk overzichtelijker als je je code netjes opdeelt in components. Daarnaast werk ik ontzettend graag met",
+        " JSX. Create-react-app maakt het opzetten van een project eenvoudig en toevoegingen zoals react-transition-group zijn erg handig. Ik heb React gebruikt in mijn Sights To See ",
+        "On Sicily project, mijn Team Analysis app en de Tickomatic 2000 app."
+      ]
+    },
+
+    "redux":
+    {
+      "title": "Redux",
+      "text": ["<i>\"Redux is an open-source JavaScript library for managing application state. It is most commonly used with ",
+        "libraries such as React or Angular for building user interfaces.\"</i>",
+        "<br/><br/>Redux begint erg omslachtig, maar als je action creators, actions en reducers eenmaal staan, wordt alles gewoon een stuk overzichtelijker. Niet meer alles naar je child-components",
+        " sturen via props maar gewoon alles vanaf één plek. Werkt erg fijn in combinatie met data uit bijvoorbeeld een API. Redux heb ik gebruikt in mijn Team Analysis project."
+      ]
+    },
+
+    "scss":
+    {
+      "title": "Sass",
+      "text": ["<i>\"Sass is a preprocessor scripting language that is interpreted or compiled into Cascading Style Sheets (CSS). Sass consists of two syntaxes.",
+        "The newer syntax, \"SCSS\" (Sassy CSS), uses block formatting like that of CSS.\"</i>",
+        "<br/><br/>SCSS biedt naast mooie toevoegingen zoals mixins en variabelen, die veel toevoegen aan de structuur van je projecten, ook een nog prettigere opmaak dan CSS3 al heeft.",
+        "Je stylesheets worden toch net wat overzichtelijker als je gebruik kunt maken van bijvoorbeeld de parent selector. Ik heb SCSS gebruikt in al mijn projecten, behalve deze website zelf."
+      ]
+    },
+
+    "bootstrap":
+    {
+      "title": "Bootstrap",
+      "text": ["<i>\"Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development. ",
+        "It contains CSS- and (optionally) JavaScript-based design templates for typography, forms, buttons, navigation and other interface components.\"</i>",
+        "<br/><br/>Bootstrap zorgt wellicht voor meer code, maar maakt de rest allemaal een stuk eenvoudiger. De voorgeprogrammeerde classes zorgen ervoor dat je gemakkelijk een snelle test",
+        " kunt opzetten. Responsiveness wordt een heel stuk gemakkelijker met Bootstrap en het is eenvoudig te implementeren in je projecten. Bootstrap zit verwerkt in al mijn projecten."
+      ]
+    }
+  }
+}
