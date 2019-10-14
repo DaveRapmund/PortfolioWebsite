@@ -87,18 +87,18 @@ li{
   padding-bottom: 18px;
 }
 
-.temp a{
+.skill a{
   height: 100px;
   width: 100%;
 }
 
-.temp a img{
+.skill a img{
   height: 100%;
   width: 100%;
   transition: transform 300ms ease;
 }
 
-.temp a img:hover{
+.skill a img:hover{
   transform: scale(1.2);
 }
 
@@ -107,7 +107,7 @@ li{
   border-bottom: 3px solid #212121;
 }
 
-.temp > svg{
+.skill > svg{
   opacity: 1;
   transition: opacity 200ms ease;
 }
@@ -126,6 +126,14 @@ h2, h3, h4, h5, #skill-row h1, #project-row h1{
   background-size: cover;
   background-repeat: no-repeat;
   background-position: left;
+}
+
+#project-row .intro a{
+  color: #212529;
+}
+
+#project-row .intro a:hover{
+  text-decoration: underline;
 }
 
 .p-but{
